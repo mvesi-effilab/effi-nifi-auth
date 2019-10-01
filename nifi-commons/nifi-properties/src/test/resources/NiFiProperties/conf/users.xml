@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups>
+        <group identifier="18d74c37-0165-1000-4779-26b6a6a59e79" name="Admin">
+            <user identifier="436a78dc-ad51-39d5-abee-29e5ea110f3f"/>
+            <user identifier="19e15fbc-0165-1000-d3d6-52905268afc2"/>
+            <user identifier="b9a1442c-270d-1ee3-6f36-d8c238216348"/>
+            <user identifier="313649d1-7a1f-1fac-2661-9a4c39554631"/>
+            <user identifier="313649d0-7a1f-1fac-7328-018a540432ea"/>
+        </group>
+        <group identifier="19de63ef-0165-1000-07bb-c24e6950b2e9" name="Biz">
+            <user identifier="19e1b108-0165-1000-785a-d6210647d2fe"/>
+            <user identifier="19e15fbc-0165-1000-d3d6-52905268afc2"/>
+            <user identifier="99a535b9-d69a-1ce7-166a-89a9409f9999"/>
+        </group>
+        <group identifier="19dedf43-0165-1000-dd17-aef9dbb5c2e1" name="Dev">
+            <user identifier="99a53442-d69a-1ce7-e595-5fec10d0ca47"/>
+            <user identifier="b9a13f58-270d-1ee3-0980-b9c313a156e1"/>
+            <user identifier="01651038-49f1-1a5f-bc77-dd8e4f645364"/>
+            <user identifier="b9a1442d-270d-1ee3-8c46-e1397e3d7c77"/>
+            <user identifier="b9a142ca-270d-1ee3-760b-a72529b8c2e9"/>
+            <user identifier="b9a1442c-270d-1ee3-6f36-d8c238216348"/>
+        </group>
+    </groups>
+    <users>
+        <user identifier="436a78dc-ad51-39d5-abee-29e5ea110f3f" identity="ops@effilab.com"/>
+        <user identifier="19e15fbc-0165-1000-d3d6-52905268afc2" identity="jean@effilab.com"/>
+        <user identifier="19e1b108-0165-1000-785a-d6210647d2fe" identity="simon.tersen@effilab.com"/>
+        <user identifier="01651038-49f1-1a5f-bc77-dd8e4f645364" identity="pierre.deville@effilab.com"/>
+        <user identifier="b9a13f58-270d-1ee3-0980-b9c313a156e1" identity="melvin@effilab.com"/>
+        <user identifier="b9a142ca-270d-1ee3-760b-a72529b8c2e9" identity="caroline.escartin@effilab.com"/>
+        <user identifier="b9a1442c-270d-1ee3-6f36-d8c238216348" identity="sebastien@effilab.com"/>
+        <user identifier="b9a1442d-270d-1ee3-8c46-e1397e3d7c77" identity="floriane.lesaule@effilab.com"/>
+        <user identifier="99a53442-d69a-1ce7-e595-5fec10d0ca47" identity="simon@effilab.com"/>
+        <user identifier="99a535b9-d69a-1ce7-166a-89a9409f9999" identity="mathieu@effilab.com"/>
+        <user identifier="313649d0-7a1f-1fac-7328-018a540432ea" identity="thomas.leclaire@effilab.com"/>
+        <user identifier="313649d1-7a1f-1fac-2661-9a4c39554631" identity="mvesi.externe@effilab.com"/>
+    </users>
+</tenants>
